@@ -35,8 +35,8 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
     <li> Visual Studio 2019</li>
     <li> PyCharm</li>
     <li> Bootstrap Studio/li>
-    <li> SQLITE Studio /li>
-    <li> XAAMP /li>
+    <li> SQLITE Studio </li>
+    <li> XAAMP </li>
     <li> Oracle Virtual Box /li>
     <li> InsoMnia</li>
     <li> Figma </li>
