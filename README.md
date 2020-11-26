@@ -14,32 +14,34 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 <details open>
   <summary><b>Linguagens</b></summary>
 <br>
- HTML 5
- CSS 3
- Java Script
- React Js
- React Native
- Python
- Django
- C#
-AspNet Core
+  <ul>
+    <li> HTML 5 </li>
+    <li> CSS  3 </li>
+    <li> Java Script </li>
+    <li> React JS </li>
+    <li> React Native </li>
+    <li> Python </li>
+    <li> Django </li>
+    <li> C# </li>
+    <li> ASPNET CORE </li>
+  </ul>
 </details>
 
 <details open>
   <summary><b>Ferramentas</b></summary>
 <br>
-Vistual Studio Code
-Visual Studio Comunity 2019
-PyCharm
-Figma
-Canva
-Gimp
-PhotoShop
+  <ul>
+    <li> Visual Studio Code</li>
+    <li> Visual Studio 2019</li>
+    <li> PyCharm</li>
+    <li> InsoMnia</li>
+    <li> Figma </li>
+    <li> Canva </li>
+    <li> Gimp </li>
+    <li> Microsoft Office /li>
+  </ul>
 </details>
  
-
-
-
 ## Formação :mortar_board:
 
 Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase
