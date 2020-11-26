@@ -41,6 +41,19 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
     <li> Microsoft Office /li>
   </ul>
 </details>
+
+<details open>
+  <summary><b>Outros</b></summary>
+<br>
+  <ul>
+    <li> Backup em nuvem</li>
+    <li> Instalação de sistema operacional</li>
+    <li> Manutenção de computadores</li>
+    <li> Configuração de redes </li>
+    <li> MER (Modelo Entidade Relacionamento</li>
+    <li> UML (Linguagem De Modelagem Umificada)</li>
+  </ul>
+</details>
  
 ## Formação :mortar_board:
 
