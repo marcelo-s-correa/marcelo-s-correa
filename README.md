@@ -6,8 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcelo.s.correa/)](https://www.instagram.com/marcelo.s.correa/)
 
 
-
-
 ## Sobre Mim :memo:
 
 Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di Biase situada em Volta Redonda - RJ. Determinado e esforçado, sempre em busca de novos conhecimentos na área de tecnologia da informação, trabalha muito bem em equipe e possui mentalidade de liderança sempre disposto a alcançar o sucesso em seus projetos. Sonha em tornar-se um grande empreendedor e futuramente abrir uma empresa de tecnologia que alcance o reconhecimento nacional e internacional. 
@@ -52,8 +50,9 @@ Informatica Completo - Microcamp Tecnologia
 
 ## Informações De Contato
 
-:email: Marcelo.s.correa10@gmail.com
+:email: <b>E-mail:</b> Marcelo.s.correa10@gmail.com
 
-:house: Volta Redonda - RJ
+:telephone_receiver: <b>Telefone:</b> +55 24 98144-9980
 
-:brazil:
+:house: <b>Localização:</b> Volta Redonda - RJ
+
