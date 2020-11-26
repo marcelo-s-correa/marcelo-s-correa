@@ -34,11 +34,15 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
     <li> Visual Studio Code</li>
     <li> Visual Studio 2019</li>
     <li> PyCharm</li>
+    <li> Bootstrap Studio/li>
+    <li> SQLITE Studio /li>
+    <li> XAAMP /li>
+    <li> Oracle Virtual Box /li>
     <li> InsoMnia</li>
     <li> Figma </li>
     <li> Canva </li>
     <li> Gimp </li>
-    <li> Microsoft Office /li>
+    <li> Microsoft Office </li>
   </ul>
 </details>
 
@@ -47,6 +51,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 <br>
   <ul>
     <li> Backup em nuvem</li>
+    <li> Virtualização de sistemas </li>
     <li> Instalação de sistema operacional</li>
     <li> Manutenção de computadores</li>
     <li> Configuração de redes </li>
