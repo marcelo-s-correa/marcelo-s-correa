@@ -13,7 +13,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 
 ## Conhecimentos 
 [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![TS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Node Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![HTML Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![CSS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
