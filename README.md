@@ -20,7 +20,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3.org/Style/CSS/Overview.en.html)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Python Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![CSHARP Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
-
+[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
 
 
 
