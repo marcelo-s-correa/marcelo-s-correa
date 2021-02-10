@@ -12,7 +12,7 @@
 Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di Biase situada em Volta Redonda - RJ. Determinado e esforçado, sempre em busca de novos conhecimentos na área de tecnologia da informação, trabalha muito bem em equipe e possui mentalidade de liderança sempre disposto a alcançar o sucesso em seus projetos. Sonha em tornar-se um grande empreendedor e futuramente abrir uma empresa de tecnologia que alcance o reconhecimento nacional e internacional. 
 
 ## Conhecimentos 
-[![JS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![TS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![Node Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![HTML Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
