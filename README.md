@@ -34,11 +34,12 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 </details>
 
 <details open>
-  <summary><b>WEB</b></summary>
+  <summary><b>Ambiente Web</b></summary>
 <br>
   <ul>
     <li> HTML 5 </li>
     <li> CSS 3 </li>
+    <li> Node </li>
   </ul>
 </details>
 
