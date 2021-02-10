@@ -15,15 +15,33 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   <summary><b>Linguagens</b></summary>
 <br>
   <ul>
-    <li> HTML 5 </li>
-    <li> CSS  3 </li>
     <li> Java Script </li>
-    <li> React JS </li>
-    <li> React Native </li>
+    <li> TypeScript </li>
     <li> Python </li>
-    <li> Django </li>
     <li> C# </li>
-    <li> ASPNET CORE </li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>WEB</b></summary>
+<br>
+  <ul>
+    <li> HTML 5 </li>
+    <li> CSS 3 </li>
+  </ul>
+</details>
+
+</details>
+
+<details open>
+  <summary><b>Frameworks</b></summary>
+<br>
+  <ul>
+    <li>DJANGO</li>
+    <li>DJANGO-REST-FRAMEWORK</li>
+    <li>ASPNET CORE MVC</li>
+    <li>REACT JS</li>
+    <li>REACT NATIVE</li>
   </ul>
 </details>
 
@@ -33,11 +51,15 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   <ul>
     <li> Visual Studio Code</li>
     <li> Visual Studio 2019</li>
-    <li> PyCharm</li>
+    <li> JetBrains IDEs</li>
     <li> Bootstrap Studio</li>
     <li> SQLITE Studio </li>
+    <li> DBeaver</li>
+    <li> Beekeper Studio</li>
     <li> XAAMP </li>
+    <li> Docker </li>
     <li> Oracle Virtual Box </li>
+    <li> GenyMotion
     <li> InsoMnia</li>
     <li> Figma </li>
     <li> Canva </li>
@@ -47,7 +69,17 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 </details>
 
 <details open>
-  <summary><b>Outros</b></summary>
+  <summary><b>SHEELS</b></summary>
+<br>
+  <ul>
+    <li>Zsh</li>
+    <li>Bash</li>
+    <li>CMD</li>
+  </ul>
+</details>
+
+<details open>
+  <summary><b>Outros conhecimentos</b></summary>
 <br>
   <ul>
     <li> Backup em nuvem</li>
@@ -64,7 +96,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 
 Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase
 
-Informatica Completo - Microcamp Tecnologia
+Curso De Informatica Completo - Microcamp Tecnologia
 
 ## Informações De Contato
 
