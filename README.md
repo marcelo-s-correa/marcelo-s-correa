@@ -12,6 +12,17 @@
 Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di Biase situada em Volta Redonda - RJ. Determinado e esforçado, sempre em busca de novos conhecimentos na área de tecnologia da informação, trabalha muito bem em equipe e possui mentalidade de liderança sempre disposto a alcançar o sucesso em seus projetos. Sonha em tornar-se um grande empreendedor e futuramente abrir uma empresa de tecnologia que alcance o reconhecimento nacional e internacional. 
 
 ## Conhecimentos 
+[![JS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![TS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![Node Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![HTML Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![CSS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![Python Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+[![CSHARP Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
+
+
+
+
 <details open>
   <summary><b>Linguagens</b></summary>
 <br>
@@ -92,6 +103,12 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
     <li> UML (Linguagem De Modelagem Umificada)</li>
   </ul>
 </details>
+
+<p> Atualmente estas são as linguagens que estou mais utilizando em meus projetos hospedados no GitHub ⤵ </p>
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamaglhaes)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
  
 ## Formação :mortar_board:
 
