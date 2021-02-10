@@ -23,7 +23,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 
 
 
-<details open>
+<details closed>
   <summary><b>Linguagens</b></summary>
 <br>
   <ul>
@@ -34,7 +34,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   </ul>
 </details>
 
-<details open>
+<details closed>
   <summary><b>Ambiente Web</b></summary>
 <br>
   <ul>
@@ -46,7 +46,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 
 </details>
 
-<details open>
+<details closed>
   <summary><b>Frameworks</b></summary>
 <br>
   <ul>
@@ -58,7 +58,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   </ul>
 </details>
 
-<details open>
+<details closed>
   <summary><b>Ferramentas</b></summary>
 <br>
   <ul>
@@ -81,7 +81,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   </ul>
 </details>
 
-<details open>
+<details closed>
   <summary><b>SHEELS</b></summary>
 <br>
   <ul>
@@ -91,7 +91,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
   </ul>
 </details>
 
-<details open>
+<details closed>
   <summary><b>Outros conhecimentos</b></summary>
 <br>
   <ul>
