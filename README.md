@@ -15,6 +15,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
+[![Csharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://docs.microsoft.com/pt-br/dotnet/csharp/)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [![HTML Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![CSS Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
 [![Python Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/marcelo-s-correa/)](https://github.com/marcelo-s-correa)
