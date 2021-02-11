@@ -115,8 +115,10 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 ## Formação :mortar_board:
 
 Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase
+<br>Periodo: 2019 - 2022
 
 Curso De Informatica Completo - Microcamp Tecnologia
+<br>Periodo: 2012 - 2014
 
 ## Informações De Contato
 
