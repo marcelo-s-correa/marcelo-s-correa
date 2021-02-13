@@ -111,6 +111,14 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamaglhaes)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
+
+<p align='center'>
+  💻 Meu Ambiente de trabalho <br/><br/>
+  <img src="https://img.shields.io/badge/Windows_10_Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Atlhon_II%20_X2%20_270-107C10?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD-ATI_Radeon_3000_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
  
 ## Formação :mortar_board:
 
