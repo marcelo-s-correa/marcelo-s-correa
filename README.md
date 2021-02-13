@@ -114,7 +114,7 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 
 <p align='center'>
   💻 Meu Ambiente de trabalho <br/><br/>
-  <img src="https://img.shields.io/badge/Windows_10_Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_10_Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Atlhon_II%20_X2%20_270-107C10?style=for-the-badge&logo=amd&logoColor=white"/>
   <img src="https://img.shields.io/badge/AMD-ATI_Radeon_3000_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
@@ -122,11 +122,15 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
  
 ## Formação :mortar_board:
 
-Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase
-<br>Periodo: 2019 - 2022
+<img src="https://lh3.googleusercontent.com/proxy/BMXB_vTA8M42usmpB4Y771VSDuiVRPKBX8f4uvGDDSgmtMceRXe8j4DuD3yaJCi9KRYuNsVtKubFWDq6Zao" width="80px" height="80px"/>
+<br>
+<p><b>Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase</b>
+<br>Periodo: 2019 - 2022 </p>
 
-Curso De Informatica Completo - Microcamp Tecnologia
-<br>Periodo: 2012 - 2014
+<img src="https://images.educamaisbrasil.com.br/content/curso/instituicao/logo/g/microcamp.png" widh="70px" height="60px"/> 
+<br>
+<p><b>Curso De Informatica Completo - Microcamp Tecnologia </b>
+<br>Periodo: 2012 - 2014 </p>
 
 ## Informações De Contato
 
