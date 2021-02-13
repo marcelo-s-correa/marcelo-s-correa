@@ -123,12 +123,10 @@ Jovem estudante do curso de sistemas de informação da Universidade Geraldo Di 
 ## Formação :mortar_board:
 
 <img src="https://lh3.googleusercontent.com/proxy/BMXB_vTA8M42usmpB4Y771VSDuiVRPKBX8f4uvGDDSgmtMceRXe8j4DuD3yaJCi9KRYuNsVtKubFWDq6Zao" width="80px" height="80px"/>
-<br>
 <p><b>Bacharelado em Sistemas de Informação - Universidade Geraldo Di Biase</b>
 <br>Periodo: 2019 - 2022 </p>
 
 <img src="https://images.educamaisbrasil.com.br/content/curso/instituicao/logo/g/microcamp.png" widh="70px" height="60px"/> 
-<br>
 <p><b>Curso De Informatica Completo - Microcamp Tecnologia </b>
 <br>Periodo: 2012 - 2014 </p>
 
