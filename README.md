@@ -96,13 +96,13 @@ Young student of the information systems course at Geraldo Di Biase University, 
   <summary><b>Other knowledges</b></summary>
 <br>
   <ul>
-    <li> Backup em nuvem</li>
-    <li> Virtualização de sistemas </li>
-    <li> Instalação de sistema operacional</li>
-    <li> Manutenção de computadores</li>
-    <li> Configuração de redes </li>
-    <li> MER (Modelo Entidade Relacionamento</li>
-    <li> UML (Linguagem De Modelagem Umificada)</li>
+    <li> Cloud backup</li>
+    <li> Systems Virtualization </li>
+    <li> Operating system installation</li>
+    <li> Computer maintenance</li>
+    <li> Network configuration</li>
+    <li> ERM (Entity Relationship Model)</li>
+    <li> UML (Unified Modeling Language)</li>
   </ul>
 </details>
 
