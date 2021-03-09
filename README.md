@@ -108,7 +108,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
 
 <p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-s-correa&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-s-correa&theme=dark)
 
 <h2>GitHub Stats</h2>
 
