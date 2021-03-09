@@ -106,9 +106,13 @@ Young student of the information systems course at Geraldo Di Biase University, 
   </ul>
 </details>
 
+<h2>GitHub Stats</h2>
+
+![marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelo-s-correa&show_icons=true&theme=dracula&hide=stars,issues)
+
 <p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamaglhaes)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-s-correa)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
