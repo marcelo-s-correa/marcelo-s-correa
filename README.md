@@ -41,6 +41,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
   <ul>
     <li> HTML 5 </li>
     <li> CSS 3 </li>
+    <li>REACT JS</li>
     <li> Node </li>
   </ul>
 </details>
@@ -54,7 +55,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
     <li>DJANGO</li>
     <li>DJANGO-REST-FRAMEWORK</li>
     <li>ASPNET CORE MVC</li>
-    <li>REACT JS</li>
+    <li>Next JS</li>
     <li>REACT NATIVE</li>
   </ul>
 </details>
@@ -65,6 +66,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
   <ul>
     <li> Visual Studio Code</li>
     <li> Visual Studio 2019</li>
+    <li> Github Atom</li>
     <li> JetBrains IDEs</li>
     <li> Bootstrap Studio</li>
     <li> SQLITE Studio </li>
