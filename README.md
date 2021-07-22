@@ -68,7 +68,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
     <li> Visual Studio Code</li>
     <li> Visual Studio 2019</li>
     <li> Github Atom</li>
-    <li> JetBrains IDEs</li>
+    <li> Android Studio and JetBrains IDEs</li>
     <li> Bootstrap Studio</li>
     <li> SQLITE Studio </li>
     <li> DBeaver</li>
