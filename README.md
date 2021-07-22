@@ -123,8 +123,8 @@ Young student of the information systems course at Geraldo Di Biase University, 
   💻 My main Work Environment <br/><br/>
   <img src="https://img.shields.io/badge/Kubuntu_20.04_LTS-%230078D6.svg?&style=for-the-badge&logo=kubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_I3_2100_%20_X2%20_270-107C10?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GT210-9df63f?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel-Core_I3_2100-0095f0?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GT210-b8fb42?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 <p align='center'>
