@@ -22,6 +22,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/pt-br/)](https://nodejs.org/pt-br/)
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-31c111?style=for-the-badge&logo=android&logoColor=white&link=https://www.docker.com/)](https://developer.android.com/studio)
 
 
 
