@@ -121,18 +121,10 @@ Young student of the information systems course at Geraldo Di Biase University, 
 
 <p align='center'>
   💻 My main Work Environment <br/><br/>
-  <img src="https://img.shields.io/badge/Kubuntu_20.04_LTS-%230078D6.svg?&style=for-the-badge&logo=kubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_I3_2100-0095f0?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GT210-b8fb42?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
-
-<p align='center'>
-  💻 My alternative Work Environment <br/><br/>
-  <img src="https://img.shields.io/badge/Windows_10_Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubuntu_21.04-%230078D6.svg?&style=for-the-badge&logo=kubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Atlhon_II%20_X2%20_270-107C10?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD-ATI_Radeon_3000_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_GT_210_Z0TAC-76b900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
  
 ## academic training :mortar_board:
