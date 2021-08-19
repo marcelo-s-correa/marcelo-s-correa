@@ -129,7 +129,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
  
 ## academic training :mortar_board:
 
-<img src="https://o.remove.bg/downloads/d8086614-125b-4a8a-91ee-fa8c7d2d423e/image-removebg-preview.png" width="100px" height="80px"/>
+<img src="https://lh3.googleusercontent.com/proxy/GQO2c2YO8MtZ3l-NAOi05DKsFqrS3mvqBfIV4ccUR1tZzUDM9S5rDG0l0rbhdQNF37XB53-45EwHmsHiWYo" width="80Opx" height="80px"/>
 <p><b>Bachelor of Information Systems - Geraldo Di Biase University</b>
 <br>Periodo: 2019 - 2022 </p>
 
