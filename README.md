@@ -22,6 +22,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-31c111?style=for-the-badge&logo=android&logoColor=white&link=https://www.docker.com/)](https://developer.android.com/studio)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 
 
 <details closed>
@@ -31,21 +32,30 @@ Young student of the information systems course at Geraldo Di Biase University, 
     <li> Java Script </li>
     <li> TypeScript </li>
     <li> Python </li>
-    <li> C# </li>
+    <li> Kotlin</li>
   </ul>
 </details>
 
 <details closed>
-  <summary><b>Web environment</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
   <ul>
-    <li> HTML 5 </li>
-    <li> CSS 3 </li>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
     <li>REACT JS</li>
-    <li> Node </li>
+    <li>REACT NATIVE</li>
   </ul>
 </details>
 
+<details>
+<summary><b>Backend</b></summary>
+<br>
+  <ul>
+    <li>NODE JS</li>
+     <li>SEQUELIZE ORM</li>
+     <li>TypeORM</li>
+     <li>KNEX</li>
+  </ul>
 </details>
 
 <details closed>
@@ -54,9 +64,8 @@ Young student of the information systems course at Geraldo Di Biase University, 
   <ul>
     <li>DJANGO</li>
     <li>DJANGO-REST-FRAMEWORK</li>
-    <li>ASPNET CORE MVC</li>
+    <li>Adonis JS</li>
     <li>Next JS</li>
-    <li>REACT NATIVE</li>
   </ul>
 </details>
 
