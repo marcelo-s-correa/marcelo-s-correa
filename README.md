@@ -33,6 +33,8 @@ Young student of the information systems course at Geraldo Di Biase University, 
     <li> TypeScript </li>
     <li> Python </li>
     <li> Kotlin</li>
+    <li> JAVA </li>
+    <li> DART </li>
   </ul>
 </details>
 
@@ -44,6 +46,7 @@ Young student of the information systems course at Geraldo Di Biase University, 
     <li>CSS 3</li>
     <li>REACT JS</li>
     <li>REACT NATIVE</li>
+    <li> VUE JS </li>
   </ul>
 </details>
 
